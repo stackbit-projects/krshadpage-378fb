@@ -9,7 +9,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "KRSH",
                 "url": "/",
                 "style": "link",
                 "has_subnav": false
